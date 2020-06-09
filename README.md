@@ -1,1 +1,1 @@
-# Bachelor Thesis
+# AllWrite - Bachelor Thesis
